@@ -1,26 +1,25 @@
 # Genuine
 
-# Genius but for South African artists
+## Genius but for South African artists
 
-# Project Overview
+#### Project Overview
 
 A platform dedicated to documenting and sharing South African music knowledge, similar to Genius but specifically focused on South African artists and their work.
 
-## Core Features
+### Core Features
 
 - **Lyrics Database:** Comprehensive collection of lyrics from South African artists across all genres
 - **Annotation System:** Allow users to add contextual information, explanations, and cultural references
 - **Artist Profiles:** Detailed information about South African musicians, including discography and biography
 - **Multi-language Support:** Interface and content in major South African languages
 
-## Technical Architecture
+### Technical Architecture
 
-### Frontend
+#### Frontend
 
 - React.js for the web application
-- React Native for mobile apps
 - Redux for state management
-- Styled-components for styling
+- SCSS for Styling
 
 ### Backend
 
@@ -29,7 +28,7 @@ A platform dedicated to documenting and sharing South African music knowledge, s
 - Redis for caching
 - ElasticSearch for powerful search functionality
 
-## Development Phases
+### Development Phases
 
 1. **Phase 1:** Core platform development (3 months)
     - Basic user authentication
@@ -44,14 +43,14 @@ A platform dedicated to documenting and sharing South African music knowledge, s
     - Multi-language content support
     - Language detection and switching
 
-## Key Challenges
+### Key Challenges
 
 - **Content Accuracy:** Ensuring accurate lyrics and translations
 - **Copyright Management:** Handling music rights and permissions
 - **Community Building:** Creating an active user base of contributors
 - **Cultural Sensitivity:** Respecting and accurately representing different cultural contexts
 
-## Success Metrics
+### Success Metrics
 
 - Number of documented songs
 - User engagement (annotations, contributions)
@@ -60,21 +59,13 @@ A platform dedicated to documenting and sharing South African music knowledge, s
 
 ## Resource Requirements
 
-### Development Team
-
-- 2 Frontend Developers
-- 2 Backend Developers
-- 1 UX Designer
-- 1 Project Manager
-- 1 Content Manager
-
 ### Infrastructure
 
 - Cloud hosting (AWS/GCP)
 - CDN for content delivery
 - Backup and disaster recovery systems
 
-## Timeline
+### Timeline
 
 Total project duration: 7-8 months from inception to launch
 
@@ -82,7 +73,7 @@ Regular sprints with bi-weekly deployments
 
 Beta testing period: 1 month before public launch
 
-## Future Expansions
+### Future Expansions
 
 - Integration with streaming platforms
 - Mobile apps for iOS and Android
